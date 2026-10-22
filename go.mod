@@ -1,3 +1,3 @@
-module github.com/YOUR_USERNAME/clothing-ecommerce
+module github.com/shanibakm/clothing-ecommerce
 
 go 1.26.5
