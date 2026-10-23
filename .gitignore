@@ -4,4 +4,7 @@
 !.env.example
 
 # Build output
+*.log
+tmp/
 bin/
+vendor/
